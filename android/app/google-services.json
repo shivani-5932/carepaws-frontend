@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "169223135381",
+    "project_id": "carepaws-5e9e8",
+    "storage_bucket": "carepaws-5e9e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169223135381:android:02cd28f62fec29d587fb9c",
+        "android_client_info": {
+          "package_name": "com.example.care_paws"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169223135381-hmjiissnc92gbeg402bhm3jhumujal1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuQK_6XpU0mywNsvojHfVg9iXcIh4gFQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169223135381-hmjiissnc92gbeg402bhm3jhumujal1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169223135381:android:3e53521c4c1adaec87fb9c",
+        "android_client_info": {
+          "package_name": "com.example.care_paws"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169223135381-82qtlu4q6124nifnshn7fsvngr2b72dm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.care_paws",
+            "certificate_hash": "d027791f63167dad9816a0fa8ee6eef08eff7279"
+          }
+        },
+        {
+          "client_id": "169223135381-hmjiissnc92gbeg402bhm3jhumujal1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuQK_6XpU0mywNsvojHfVg9iXcIh4gFQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169223135381-hmjiissnc92gbeg402bhm3jhumujal1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
